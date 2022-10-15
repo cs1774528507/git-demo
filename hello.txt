@@ -12,4 +12,4 @@ hello shuai! hello git!
 hello shuai! hello git!
 hello shuai! hello git!
 hello shuai! hello git!
-hello shuai! hello git!
+hello shuai! hello git! hot-fix test
